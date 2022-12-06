@@ -1,0 +1,275 @@
+#EXTM3U 
+
+LOCALES
+
+#EXTINF:-1 group-title="LOCALES", adn40 mexico 
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
+#EXTINF:-1 group-title="LOCALES", televisa news
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 group-title="LOCALES", multimedios 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES", azteca 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES",, azteca 7
+http://190.61.102.67:31589/play/a00i/index.m3u8
+
+
+#EXTINF:-1 group-title="LOCALES", azteca 1
+http://190.61.102.67:31589/play/a04p/index.m3u8
+
+#EXTINF:-1 group-title="LOCALES", 105 Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="LOCALES", CANAL 5
+http://189.203.160.152:10803/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-id="XHDF(AztecaUno).mx" group-title="LOCALES", AZTECA 1
+http://189.203.160.152:10803/play/a0kp/index.m3u8
+
+#EXTINF:-1 tvg-id="XHUAATDT.mx" group-title="LOCALES", Las Estrellas 57.1 (-2h)
+https://v-sd.mybtv.net/live/530.m3u8
+
+#EXTINF:-1 tvg-id="XHJKTDT.mx" group-title="LOCALES", Azteca Uno 1.1 (-2h)
+https://v-sd.mybtv.net/live/760.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", miamitv méxico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+
+#EXTINF:-1 group-title="MUSICA", 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+
+#EXTINF:-1 group-title="KIDS", 27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+
+#EXTINF:-1 group-title="CONOCIMIENTO", 318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MUSICA", BANDAMAX
+http://190.61.102.67:31589/play/a08h/index.m3u8
+
+#EXTINF:-1 group-title="CINE", GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="HBO.mx" group-title="PREMIUM", HBO
+http://189.203.160.152:10803/play/a0c5/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus.mx" group-title="PREMIUM", HBO +
+http://189.203.160.152:10803/play/a0cv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DisneyChannel.mx" group-title="KIDS", DISNEY CHANNEL
+http://189.203.160.152:10803/play/a0al/index.m3u8
+
+#EXTINF:-1 tvg-id="H2.mx" group-title="CONOCIMIENTO", history 2
+http://189.203.160.152:10803/play/a0dj/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AMC.mx" group-title="CINE", AMC
+http://189.203.160.152:10803/play/a0k8/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.mx" group-title="ENTRETENIMIENTO", MTV
+http://189.203.160.152:10803/play/a0ak/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="" group-title="ENTRETENIMIENTO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LOCALES", AZTECA UNO (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CHILE" ,El 13 (Chile)
+http://45.232.210.1:8062/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="COLOMBIA" ,Caracol
+http://190.60.39.62:8000/play/a033
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="RECOMENDADOS",Fox Sports
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=170&f=.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="RECOMENDADOS",Fox Sports 2
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=172&f=.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="RECOMENDADOS",Fox Sports 3
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?tokennn=Regio&c=178&f=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium MX" group-title="DEPORTES",Fox Sports Premium MX
+http://bgapp.live/play/futvall-142.php?id=foxsportsp&token=bñackghos&f=.m3u8
+
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/afizzi.png" group-title="RECOMENDADOS",Afizzionados
+http://bgapp.live/play/futvall-142.php?id=YWZpenppb25hZG9z&token=bñackghos&f=.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" group-title="LOCALES" ,Univisión
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668.ts
+
+#EXTINF:-1 group-title="LOCALES", 145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+
+#EXTINF:-1 group-title="CINE", 160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+
+#EXTINF:-1 group-title="CINE", 162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+
+#EXTINF:-1 group-title="CINE", 226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 234 ID
+http://190.61.102.67:31589/play/a04y/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Miami TV Latino (1080p)
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
+https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Miami TV (720p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+
+
+
+
+
+DEPORTES
+
+
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 latino
+http://192.99.19.55:25461/sRecablegratisdottv/4VIrhLpbSc/158
+
+#EXTINF:-1 group-title="DEPORTES", clarosports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", tudn usa
+https://regioplay.xyz/php/SR_REGIO_502122_/piracode.php?c=937173/univision?ch=tudn&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", bein extra español
+https://regioplay.xyz/php/SR_REGIO_502122_/pctvcode.php?c=/l1?ch=bein_xtra_n&f=.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", 344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", SKY LA LIGA
+http://190.61.102.67:31589/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="DEPORTES", ESPN
+http://189.203.160.152:10803/play/a091/index.m3u8
+
+
+
+
+
+ARGENTINA
+
+#EXTINF:-1 group-title="ARGENTINA",ESPN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061326?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",,ESPN 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061324?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",ESPN 3
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061325?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",ESPN+
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061327?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",FOX SPORT 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061298?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",FOX SPORTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061297?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",TELEVISION PUBLICA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061401?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",TNT SPORTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="ARGENTINA",TYC SPORTS LOCAL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061294?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061394?checkedby:iptvcat.com
+
+
+
+
+
+ESPAÑA
+
+#EXTINF:-1 group-title="España", telecinco
+https://regioplay.xyz/php/SR_REGIO_502122_/pctvcode.php?c=/mt?ch=telecinco&f=.m3u8
+
+
+
+
+CHILE
+
+
+#EXTINF:-1 tvg-id="" group-title="CHILE" ,El 13 (Chile)
+http://45.232.210.1:8062/play/a07g/index.m3u8
+
+
+
+COLOMBIA
+
+#EXTINF:-1 tvg-id="" group-title="COLOMBIA" ,Caracol
+http://190.60.39.62:8000/play/a033
+
